@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jp7+oUJQhvEbwu+PBUCWkvUFSbU9+5q+qtP+p/5vRAWjHM/9cRqGxfL/kgDWINteNrSQyRSbDezwbPJPSgEDjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Desktop\\Stage 4\\PracticeCheckCloud\\OrderItemsNew\\OrderItemNew\\OrderItemNew\\OrderItemNew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
